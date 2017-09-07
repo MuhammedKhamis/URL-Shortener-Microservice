@@ -11,8 +11,10 @@
    ### Example creation usage:
 
    <code>
-   https://clumsy-meal.glitch.me/new/https://www.google.com 
-
+   https://clumsy-meal.glitch.me/new/https://www.google.com
+   </code>
+   
+   <code>
    https://clumsy-meal.glitch.me/new/http://foo.com:80             
     </code> 
 
@@ -23,10 +25,12 @@
          "short_url":"https://clumsy-meal.glitch.me/8170" 
     }
   </pre>
+  
   ## Usage:
   <code>
     https://clumsy-meal.glitch.me/8170
     </code>
+    
     
 Will redirect to:
 
